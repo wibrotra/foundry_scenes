@@ -12,7 +12,7 @@
     }
   ],
   "version": "0.1",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/wibrotra/foundry_scenes/master/module.json",
   "download": "",
   "id": "scenes-module",
   "authors": [
