@@ -1,0 +1,28 @@
+{
+  "title": "Scenes Module",
+  "description": "Module of prepared scenes",
+  "packs": [
+    {
+      "name": "module-scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "private": false,
+      "type": "Scene",
+      "flags": {}
+    }
+  ],
+  "version": "0.1",
+  "manifest": "",
+  "download": "",
+  "id": "scenes-module",
+  "authors": [
+    {
+      "name": "William Travis",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}
