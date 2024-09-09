@@ -11,9 +11,9 @@
       "flags": {}
     }
   ],
-  "version": "0.1",
+  "version": "0.2",
   "manifest": "https://raw.githubusercontent.com/wibrotra/foundry_scenes/master/module.json",
-  "download": "",
+  "download": "https://github.com/wibrotra/foundry_scenes/archive/refs/tags/0.2.zip",
   "id": "scenes-module",
   "authors": [
     {
