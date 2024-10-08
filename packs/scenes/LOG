@@ -1,0 +1,8 @@
+2024/10/08-13:00:22.765 ecc Recovering log #10
+2024/10/08-13:00:22.774 ecc Delete type=0 #10
+2024/10/08-13:00:22.774 ecc Delete type=3 #8
+2024/10/08-13:00:29.198 2f70 Level-0 table #15: started
+2024/10/08-13:00:29.198 2f70 Level-0 table #15: 0 bytes OK
+2024/10/08-13:00:29.202 2f70 Delete type=0 #13
+2024/10/08-13:00:29.211 2f70 Manual compaction at level-0 from '!scenes!s6vHKGX9oXAqgxTx' @ 72057594037927935 : 1 .. '!scenes.walls!s6vHKGX9oXAqgxTx.ziAFUvcMGsuXEEFd' @ 0 : 0; will stop at (end)
+2024/10/08-13:00:29.211 2f70 Manual compaction at level-1 from '!scenes!s6vHKGX9oXAqgxTx' @ 72057594037927935 : 1 .. '!scenes.walls!s6vHKGX9oXAqgxTx.ziAFUvcMGsuXEEFd' @ 0 : 0; will stop at (end)
